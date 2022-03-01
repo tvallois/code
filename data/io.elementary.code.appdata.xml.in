@@ -26,6 +26,18 @@
     </ul>
   </description>
   <releases>
+    <release version="6.2.0" date="2021-11-23" urgency="medium">
+      <description>
+        <p>Improvements:</p>
+        <ul>
+          <li>Allow regex searching from the searchbar</li>
+        </ul>
+        <p>Minor updates:</p>
+        <ul>
+          <li>Updated translations</li>
+        </ul>
+      </description>
+    </release>
     <release version="6.1.0" date="2021-11-23" urgency="medium">
       <description>
         <p>Improvements:</p>
